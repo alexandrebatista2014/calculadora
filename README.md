@@ -4,4 +4,4 @@ Uma calculadora simples, mas com um código muito elegante. Um ótimo exercicios
 
 [Este tutorial foi retirado do canal: ONLINE TUTORIALS](https://www.youtube.com/watch?v=BuZtAqk5LIY&feature=em-uploademail)  
   
-!(Imagem da tela)[]
+!(Imagem da tela)[https://github.com/alexandrebatista2014/calculadora/blob/master/img-tela.gif]
